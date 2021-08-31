@@ -1,0 +1,23 @@
+{
+  "name": "7-asincronismo",
+  "version": "1.0.0",
+  "description": "trabajar con asincronismo en JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ricari88/7-asincronismo.git"
+  },
+  "keywords": [
+    "callbacks",
+    "asincronismo"
+  ],
+  "author": "Ricardo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ricari88/7-asincronismo/issues"
+  },
+  "homepage": "https://github.com/Ricari88/7-asincronismo#readme"
+}
